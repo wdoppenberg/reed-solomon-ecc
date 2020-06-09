@@ -5,4 +5,4 @@ Included is a small project which is a software implementation of Reed-Solomon e
 ---
 
 ## Software overview:
-![Software design](Software_design.pdf)
+![Software design](software_design.jpg)
